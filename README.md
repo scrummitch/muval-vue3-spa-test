@@ -6,6 +6,13 @@ application (SPA) to consume the API you built in the Laravel backend test.
 This test requires you to have already completed the Laravel backend test:
 <https://github.com/muval-apps/backend-test>
 
+
+Check out [OurEventAlbum](https://oureventalbum.com)
+
+and 
+
+[MetaKit](https://metakit.app)
+
 ## Getting started
 
 1. Download or clone this repos.
